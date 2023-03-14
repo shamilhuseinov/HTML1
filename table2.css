@@ -1,0 +1,24 @@
+.afterm{
+    background-color: orange;
+}
+
+.pm{
+    background-color: green;
+}
+
+.bpm{
+    background-color:blue;
+}
+
+th{
+    border: 1px solid black;
+}
+
+td{
+    border: 1px solid black;
+}
+
+body{
+    background-color: aqua;
+    border: 1px solid black;
+}

@@ -1,0 +1,10 @@
+th{
+    background-color:dimgrey;
+    border: 1px solid black;
+    color: white;
+}
+
+td{
+    background-color: lightgray;
+    border: 1px solid black;
+}
